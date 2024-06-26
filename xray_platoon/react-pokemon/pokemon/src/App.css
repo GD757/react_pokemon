@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+/*"*{}" this is a command to control the format for the entire page */
+.body{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.mybutton {
+margin: 50px;
+
+}
+
+
+.container {
+border: solid;
+height: 300px;
+width: 300px;
+}
